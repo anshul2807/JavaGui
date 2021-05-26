@@ -14,7 +14,7 @@ class temp extends JFrame implements ActionListener{
         t1 = new JTextField(20);
         t2 = new JTextField(20);
         b1 = new JButton("Add");
-        l1 = new JLabel("RESULT");
+        l1 = new JLabel("RESULT : ");
        
         add(t1);
         add(t2);
